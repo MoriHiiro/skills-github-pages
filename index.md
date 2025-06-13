@@ -1,4 +1,3 @@
 ---
-title: Welcome to my blog!
-I am Mori Hiiro
+title: Welcome to my blog! Hello
 ---
